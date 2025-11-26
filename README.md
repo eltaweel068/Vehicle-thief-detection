@@ -46,5 +46,5 @@ The model exhibits exceptional performance on the test set (21 images).
 ## 🖼️ Validation Samples
 Below are sample results from the validation batch:
 
-![Sample Detection](path/to/your/val_batch_pred.jpg)
+![Sample Detection](https://github.com/eltaweel068/Vehicle-thief-detection/blob/main/download%20(1).jpeg)
 
