@@ -47,11 +47,4 @@ The model exhibits exceptional performance on the test set (21 images).
 Below are sample results from the validation batch:
 
 ![Sample Detection](path/to/your/val_batch_pred.jpg)
-*(Replace this path with an image from your runs/detect/val3 folder)*
 
-## 🚀 Installation & Usage
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/vehicle-thief-detection.git](https://github.com/your-username/vehicle-thief-detection.git)
-cd vehicle-thief-detection
